@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dispweb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="dispweb.war">
+      <element id="artifact" artifact-name="dispweb:war exploded" />
+    </root>
+  </artifact>
+</component>

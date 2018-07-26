@@ -1,0 +1,16 @@
+apply plugin: 'java'
+apply plugin: 'war'
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+jar {
+    baseName = 'dispweb'
+    version =  '0.0.1'
+}
+
+dependencies {
+    compile 'javax.servlet:javax.servlet-api:3.1.0'
+}

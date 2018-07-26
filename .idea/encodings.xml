@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/DispServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/LoginServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/check.jsp" charset="UTF-8" />
+  </component>
+</project>
